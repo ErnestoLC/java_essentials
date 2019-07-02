@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class FirstSelenium {
 
     public static void main(String[] args) {
-    	System.setProperty("webdriver.chrome.driver","/Users/Windows 10 LTSB ®/repo/drivers/chromedriver.exe");
+    	//System.setProperty("webdriver.chrome.driver","/Users/Windows 10 LTSB ®/repo/drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         String expectedTitle = "Welcome: Mercury Tours";
         driver.get("http://newtours.demoaut.com");
