@@ -5,7 +5,8 @@ import libs.Input;
 public class FechaCompleta {
 
 	public static void main(String[] args) {
-		// le pedimos al usuario la fecha
+		// le pedimos al usuario la fech
+	
 		// 02/03/1990
 		// 2 de Marzo de 1990
 		// primero pedir al usuario la fecha
