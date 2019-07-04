@@ -9,7 +9,7 @@ public class AdivinaNumero {
 	public static void main(String[] args) {
 		
 		System.out.println("Bienvenido al juego de 'Adivina el número mágico'");
-		System.out.println("Adivina el núero mágico del 1 al 20. Buena suerte\n");
+		System.out.println("Adivina el núero mágico del 1 al 20. Buena suerte solo tiene 3 intentos\n");
 		
 		// Iniciar la respuesta del usuario con cualquier cosa
 		int numeroUsuario = 0;
